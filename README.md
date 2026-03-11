@@ -1,4 +1,4 @@
-# 💬 Aavio Chat
+# 💬 Aavio ChatApp
 
 A full-stack real-time chat application built with Spring Boot and React.
 
